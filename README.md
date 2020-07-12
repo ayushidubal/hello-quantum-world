@@ -12,6 +12,8 @@ Pre-requisites:
 
 It's okay if you aren't very well versed in these topics, we will only need the basics, and we'll brush up on those too.
 
+[Binder link](https://mybinder.org/v2/gh/ayushidubal/hello-quantum-world.git/master?filepath=Python_Host.ipynb)
+
 Here are some resources you can explore:
 
 1. [Microsoft's Quantum Katas](https://github.com/Microsoft/QuantumKatas/)
